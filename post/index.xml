@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts | X-Lab - 技术传播文明，践行同步世界</title>
+    <link>http://www.x-lab.info/post/</link>
+      <atom:link href="http://www.x-lab.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Tue, 21 Jul 2020 16:46:57 +0800</lastBuildDate>
+    <image>
+      <url>http://www.x-lab.info/images/logo_hua119df94ea44dea2476b770078135e44_29010_300x300_fit_lanczos_2.png</url>
+      <title>Blog Posts</title>
+      <link>http://www.x-lab.info/post/</link>
+    </image>
+    
+    <item>
+      <title>project1海报展示</title>
+      <link>http://www.x-lab.info/post/recommend-system/</link>
+      <pubDate>Tue, 21 Jul 2020 16:46:57 +0800</pubDate>
+      <guid>http://www.x-lab.info/post/recommend-system/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;本次海报由小组成员通力合作完成，海报制作环境借助了创客贴平台，海报内容分为项目内容，用户画像，问题定义，需求总结和原型实现。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;内容简介&#34;&gt;内容简介&lt;/h2&gt;
+&lt;p&gt;项目的目的是基于用户的评价来向用户推荐合适的课程，需要收集用户的信息来进行数据分析。&lt;/p&gt;
+&lt;p&gt;面向的用户以学生为主，也可以给想要给孩子推荐网课的家长作参考。&lt;/p&gt;
+&lt;p&gt;在问题的定义上，根据之前调查问卷的调查情况，可以得出过量的网课资源确实给予了不少同学们选择上的障碍，大多数同学认可网课推荐系统的必要。&lt;/p&gt;
+&lt;p&gt;需求总结方面首先是要有可视化的前端平台，其次是根据用户数据分析用户的兴趣，得到一个推荐完的序列供用户选择，最后是要允许用户进行客观评价以便于模型改进。&lt;/p&gt;
+&lt;p&gt;最后是原型实现的大致想法，采用循环神经网络，将课程内容、教师信息等元素考虑进去，系统自动筛选有帮助的评价作为推荐依据，不能随意修改权值避免暗箱操作。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

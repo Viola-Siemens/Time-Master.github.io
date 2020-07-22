@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | X-Lab - 技术传播文明，践行同步世界</title>
+    <link>http://www.x-lab.info/publication-type/1/</link>
+      <atom:link href="http://www.x-lab.info/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.x-lab.info/images/logo_hua119df94ea44dea2476b770078135e44_29010_300x300_fit_lanczos_2.png</url>
+      <title>1</title>
+      <link>http://www.x-lab.info/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>网课推荐系统 - 让您在知识的天空中自由翱翔</title>
+      <link>http://www.x-lab.info/publication/recommender_systems/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.x-lab.info/publication/recommender_systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
