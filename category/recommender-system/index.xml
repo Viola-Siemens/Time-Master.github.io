@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommender System | X-Lab - 技术传播文明，践行同步世界</title>
+    <link>http://www.x-lab.info/category/recommender-system/</link>
+      <atom:link href="http://www.x-lab.info/category/recommender-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recommender System</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Mon, 20 Jul 2020 18:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://www.x-lab.info/images/logo_hua119df94ea44dea2476b770078135e44_29010_300x300_fit_lanczos_2.png</url>
+      <title>Recommender System</title>
+      <link>http://www.x-lab.info/category/recommender-system/</link>
+    </image>
+    
+    <item>
+      <title>网课推荐系统</title>
+      <link>http://www.x-lab.info/project/recommender-system/</link>
+      <pubDate>Mon, 20 Jul 2020 18:00:00 +0800</pubDate>
+      <guid>http://www.x-lab.info/project/recommender-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
